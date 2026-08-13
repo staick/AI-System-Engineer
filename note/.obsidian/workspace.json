@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WWA.md",
-                "mode": "source",
+                "file": "Categories/Algorithm.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WWA"
+              "title": "Algorithm"
             }
           }
         ]
@@ -63,7 +63,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -71,9 +71,12 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "书签"
             }
           }
         ]
@@ -185,13 +188,28 @@
       "bases:新建数据库": false
     }
   },
-  "active": "40ad6abc5f2e578b",
+  "active": "3f576f35edf1acba",
   "lastOpenFiles": [
-    "Categorise/LLM.md",
     "WWA.md",
-    "Categorise/ML.md",
-    "Categorise",
+    "Categories/Matplot.md",
+    "Categories/LLM.md",
+    "Categories/Algorithm.md",
+    "Categories/ML.md",
+    "Categories/Numpy.md",
+    "Math/Linear Algebra/Matrix (矩阵).md",
+    "Math/Linear Algebra/Vector (向量).md",
+    "Matplot/中文显示问题.md",
+    "Matplot/未命名.md",
+    "Algorithm/Leetcode/Leetcode_3 Roman to Integer.md",
+    "Algorithm/Leetcode/Leetcode_274 H-Index.md",
+    "Algorithm/Leetcode/Leetcode_58 Length of Last Word.md",
+    "Algorithm/Leetcode",
+    "Algorithm",
+    "Math/Linear Algebra",
+    "Math",
     "Numpy/Numpy.md",
+    "Matplot",
+    "Categories",
     "Numpy",
     "Machine Learning",
     "Welcome.md",

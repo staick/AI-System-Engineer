@@ -1,3 +1,6 @@
 {
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "Blue Topaz",
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "baseFontSize": 17
 }

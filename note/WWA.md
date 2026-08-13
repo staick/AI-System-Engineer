@@ -1,1 +1,4 @@
 [[LLM]]
+- [[Numpy]]
+- [[Matplot]]
+[[Algorithm]]
