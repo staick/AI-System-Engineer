@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Categories/Algorithm.md",
-                "mode": "preview",
+                "file": "Matplot/中文显示问题.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algorithm"
+              "title": "中文显示问题"
             }
           }
         ]
@@ -190,19 +190,26 @@
   },
   "active": "3f576f35edf1acba",
   "lastOpenFiles": [
-    "WWA.md",
-    "Categories/Matplot.md",
-    "Categories/LLM.md",
+    "Algorithm/Leetcode/Leetcode_14 Longest Common Prefix.md",
+    "Algorithm/Leetcode/Leetcode_28 Find the Index of the First Occurrence in a String.md",
+    "Algorithm/Leetcode/Leetcode_58 Length of Last Word.md",
+    "Algorithm/Leetcode/Leetcode_274 H-Index.md",
+    "Algorithm/Leetcode/Leetcode_3 Roman to Integer.md",
+    "Pandas/DateTime.md",
     "Categories/Algorithm.md",
-    "Categories/ML.md",
+    "Pandas/Series.md",
+    "Categories/Pandas.md",
+    "Pandas/DataFrame.md",
+    "WWA.md",
+    "Categories/LLM.md",
+    "Categories/Matplot.md",
     "Categories/Numpy.md",
+    "Categories/ML.md",
+    "Pandas",
     "Math/Linear Algebra/Matrix (矩阵).md",
     "Math/Linear Algebra/Vector (向量).md",
     "Matplot/中文显示问题.md",
     "Matplot/未命名.md",
-    "Algorithm/Leetcode/Leetcode_3 Roman to Integer.md",
-    "Algorithm/Leetcode/Leetcode_274 H-Index.md",
-    "Algorithm/Leetcode/Leetcode_58 Length of Last Word.md",
     "Algorithm/Leetcode",
     "Algorithm",
     "Math/Linear Algebra",
@@ -213,7 +220,6 @@
     "Numpy",
     "Machine Learning",
     "Welcome.md",
-    "LLM",
-    "AI"
+    "LLM"
   ]
 }
