@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Leetcode/383. Ransom Note.md",
+                "file": "ML/0. Conceptus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "383. Ransom Note"
+              "title": "0. Conceptus"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f27f42567a7440d4",
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Leetcode/383. Ransom Note.md",
+                "file": "ML/0. Conceptus.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Leetcode/383. Ransom Note.md",
+                "file": "ML/0. Conceptus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -175,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,19 +192,24 @@
   },
   "active": "3f576f35edf1acba",
   "lastOpenFiles": [
-    "Categories/Leetcode.md",
-    "Algorithm/Leetcode/383. Ransom Note.md",
-    "WWA.md",
+    "ML/1. Feature Engineering.md",
+    "Math/Linear Algebra/Vector (向量).md",
+    "Math/Linear Algebra/Matrix (矩阵).md",
+    "Matplot/中文显示问题.md",
+    "Matplot/基本使用.md",
+    "ML/0. Conceptus.md",
+    "Categories/ML.md",
+    "ML",
     "Categories/Algorithm.md",
+    "Algorithm/Leetcode/383. Ransom Note.md",
+    "Categories/Leetcode.md",
+    "WWA.md",
     "Categories/Zuo.md",
     "Algorithm/Zuo/Primary/用位运算实现加减乘除.md",
     "Categories/Pandas.md",
     "Categories/Numpy.md",
     "Categories/Matplot.md",
     "Categories/LLM.md",
-    "Math/Linear Algebra/Matrix (矩阵).md",
-    "Math/Linear Algebra/Vector (向量).md",
-    "Matplot/中文显示问题.md",
     "Pandas/Series.md",
     "Pandas/DateTime.md",
     "Pandas/DataFrame.md",
@@ -214,17 +221,12 @@
     "Algorithm/Leetcode/274. H-Index.md",
     "Algorithm/Leetcode/14. Longest Common Prefix.md",
     "Algorithm/Leetcode/3. Roman to Integer.md",
-    "Categories/Machine Learning.md",
     "Pandas",
-    "Algorithm/Leetcode/28. Find the Index of the First Occurrence in a String.md",
-    "Machine Learning",
+    "ML",
     "CSDIY/CSAPP",
     "CSDIY",
-    "Categories/ML.md",
-    "Matplot/未命名.md",
     "Algorithm/Leetcode",
     "Algorithm",
-    "Math/Linear Algebra",
-    "Math"
+    "Math/Linear Algebra"
   ]
 }
