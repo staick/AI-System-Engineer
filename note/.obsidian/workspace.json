@@ -190,6 +190,10 @@
   },
   "active": "3f576f35edf1acba",
   "lastOpenFiles": [
+    "Matplot/基本使用.md",
+    "ML/1. Feature Engineering.md",
+    "ML/0. Conceptus.md",
+    "ML",
     "Algorithm/Leetcode/383. Ransom Note.md",
     "Algorithm/Leetcode/392. Is Subsequence.md",
     "Categories/Zuo.md",
@@ -219,12 +223,8 @@
     "Categories/LLM.md",
     "Categories/ML.md",
     "Categories/Numpy.md",
-    "Math/Linear Algebra/Vector (向量).md",
-    "Matplot/未命名.md",
-    "Algorithm/Leetcode/58. Length of Last Word.md",
     "Algorithm/Leetcode",
     "Algorithm",
-    "Math/Linear Algebra",
-    "Math"
+    "Math/Linear Algebra"
   ]
 }
