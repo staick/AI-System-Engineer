@@ -1,6 +1,8 @@
 [[LLM]]
 - [[Numpy|1. Numpy]]
-- 2. [[Pandas]]
-- [[Matplot]]
+- [[Pandas|2. Pandas]]
+- [[Matplot|3. Matplot]]
 
 [[Algorithm]]
+- [[Leetcode]]
+- [[Zuo|左神算法班]]
