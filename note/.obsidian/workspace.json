@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/0. Conceptus.md",
+                "file": "Algorithm/Leetcode/205. Isomorphic Strings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Conceptus"
+              "title": "205. Isomorphic Strings"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f27f42567a7440d4",
@@ -192,12 +191,21 @@
   },
   "active": "3f576f35edf1acba",
   "lastOpenFiles": [
-    "ML/1. Feature Engineering.md",
+    "Algorithm/Leetcode/125. Valid Palindrome.md",
+    "Algorithm/Leetcode/205. Isomorphic Strings.md",
+    "CSDIY/DS100/Data 100 Principles and Techniques of Data Science.md",
+    "Data Analysis/未命名.md",
+    "Data Analysis",
+    "ML/Supervised Learning/1. Feature Engineering.md",
+    "CSDIY/DS100",
+    "CSDIY/DS100.md",
+    "CSDIY",
     "Math/Linear Algebra/Vector (向量).md",
     "Math/Linear Algebra/Matrix (矩阵).md",
+    "ML/0. Conceptus.md",
+    "ML/Supervised Learning",
     "Matplot/中文显示问题.md",
     "Matplot/基本使用.md",
-    "ML/0. Conceptus.md",
     "Categories/ML.md",
     "ML",
     "Categories/Algorithm.md",
@@ -216,17 +224,8 @@
     "Algorithm/Leetcode/392. Is Subsequence.md",
     "Algorithm/Zuo/Primary",
     "Algorithm/Zuo",
-    "Algorithm/未命名.md",
-    "Algorithm/Leetcode/125. Valid Palindrome.md",
-    "Algorithm/Leetcode/274. H-Index.md",
-    "Algorithm/Leetcode/14. Longest Common Prefix.md",
-    "Algorithm/Leetcode/3. Roman to Integer.md",
     "Pandas",
     "ML",
-    "CSDIY/CSAPP",
-    "CSDIY",
-    "Algorithm/Leetcode",
-    "Algorithm",
-    "Math/Linear Algebra"
+    "CSDIY/CSAPP"
   ]
 }
