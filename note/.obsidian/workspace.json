@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Algorithm/Leetcode/205. Isomorphic Strings.md",
+=======
+                "file": "Algorithm/Zuo/Primary/用位运算实现加减乘除.md",
+>>>>>>> 71da83a744e91cbc5a875173163338abc1da5b9b
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "205. Isomorphic Strings"
+=======
+              "title": "用位运算实现加减乘除"
+>>>>>>> 71da83a744e91cbc5a875173163338abc1da5b9b
             }
           }
         ]
@@ -46,7 +54,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -99,8 +107,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/0. Conceptus.md",
-                "collapseAll": true,
+                "file": "Algorithm/Zuo/Primary/用位运算实现加减乘除.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -109,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Backlinks"
             }
           },
           {
@@ -152,7 +160,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "添加笔记属性"
+              "title": "All properties"
             }
           },
           {
@@ -161,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/0. Conceptus.md",
+                "file": "Algorithm/Zuo/Primary/用位运算实现加减乘除.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Outline"
             }
           }
         ],
@@ -175,22 +183,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "3f576f35edf1acba",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Algorithm/Leetcode/125. Valid Palindrome.md",
     "Algorithm/Leetcode/205. Isomorphic Strings.md",
     "CSDIY/DS100/Data 100 Principles and Techniques of Data Science.md",
@@ -207,25 +215,49 @@
     "Matplot/中文显示问题.md",
     "Matplot/基本使用.md",
     "Categories/ML.md",
+=======
+    "Matplot/基本使用.md",
+    "ML/1. Feature Engineering.md",
+    "ML/0. Conceptus.md",
+>>>>>>> 71da83a744e91cbc5a875173163338abc1da5b9b
     "ML",
-    "Categories/Algorithm.md",
     "Algorithm/Leetcode/383. Ransom Note.md",
-    "Categories/Leetcode.md",
-    "WWA.md",
-    "Categories/Zuo.md",
-    "Algorithm/Zuo/Primary/用位运算实现加减乘除.md",
-    "Categories/Pandas.md",
-    "Categories/Numpy.md",
-    "Categories/Matplot.md",
-    "Categories/LLM.md",
-    "Pandas/Series.md",
-    "Pandas/DateTime.md",
-    "Pandas/DataFrame.md",
     "Algorithm/Leetcode/392. Is Subsequence.md",
+    "Categories/Zuo.md",
+    "Categories/Leetcode.md",
+    "Algorithm/Zuo/Primary/用位运算实现加减乘除.md",
     "Algorithm/Zuo/Primary",
     "Algorithm/Zuo",
+<<<<<<< HEAD
     "Pandas",
     "ML",
     "CSDIY/CSAPP"
+=======
+    "Algorithm/Leetcode/125. Valid Palindrome.md",
+    "Algorithm/Leetcode/274. H-Index.md",
+    "Algorithm/Leetcode/14. Longest Common Prefix.md",
+    "Algorithm/Leetcode/3. Roman to Integer.md",
+    "Categories/Matplot.md",
+    "Categories/Machine Learning.md",
+    "Pandas/Series.md",
+    "Pandas/DateTime.md",
+    "Pandas/DataFrame.md",
+    "Pandas",
+    "Categories/Pandas.md",
+    "Algorithm/Leetcode/28. Find the Index of the First Occurrence in a String.md",
+    "WWA.md",
+    "Machine Learning",
+    "Matplot/中文显示问题.md",
+    "Math/Linear Algebra/Matrix (矩阵).md",
+    "CSDIY/CSAPP",
+    "CSDIY",
+    "Categories/Algorithm.md",
+    "Categories/LLM.md",
+    "Categories/ML.md",
+    "Categories/Numpy.md",
+    "Algorithm/Leetcode",
+    "Algorithm",
+    "Math/Linear Algebra"
+>>>>>>> 71da83a744e91cbc5a875173163338abc1da5b9b
   ]
 }
