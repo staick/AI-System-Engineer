@@ -1,4 +1,7 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "foldIndent": true,
+  "readableLineLength": true,
+  "propertiesInDocument": "visible"
 }

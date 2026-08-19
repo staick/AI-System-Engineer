@@ -1,4 +1,7 @@
 {
   "blue-topaz-theme@@font-size-code": "0.95em",
-  "blue-topaz-theme@@font-size-outline": "16px"
+  "blue-topaz-theme@@font-size-outline": "16px",
+  "Blue-Topaz-Codebox-Highlight@@whole-code-wrap": true,
+  "Blue-Topaz-Codebox-Highlight@@remove-language-type": false,
+  "Blue-Topaz-Codebox-Highlight@@nowrap-edit-codebox": false
 }

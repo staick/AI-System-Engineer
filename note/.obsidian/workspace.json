@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structure/heap/min-heap & max-heap.md",
+                "file": "Algorithm/Leetcode/1386. Cinema Seat Allocation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "min-heap & max-heap"
+              "title": "1386. Cinema Seat Allocation"
             }
           }
         ]
@@ -191,9 +191,17 @@
   },
   "active": "3f576f35edf1acba",
   "lastOpenFiles": [
+    "Algorithm/Leetcode/100. Same Tree.md",
+    "Algorithm/Leetcode/1386. Cinema Seat Allocation.md",
+    "Python/Traps & Pitfalls.md",
+    "Algorithm/Leetcode/101. Symmetric Tree.md",
+    "Python",
+    "Data Structure/Tree/Binary-tree/Traversal.md",
+    "Data Structure/Heap/Min-heap & Max-heap.md",
+    "Data Structure/Tree/Binary-tree",
+    "Data Structure/Tree",
     "WWA.md",
-    "Data Structure/heap/min-heap & max-heap.md",
-    "Data Structure/heap",
+    "Data Structure/Heap",
     "Data Structure",
     "Math/Linear Algebra/Matrix (矩阵).md",
     "Math/Linear Algebra/Vector (向量).md",
@@ -218,14 +226,6 @@
     "Categories/Algorithm.md",
     "Algorithm/Leetcode/383. Ransom Note.md",
     "Categories/Zuo.md",
-    "Algorithm/Zuo/Primary/用位运算实现加减乘除.md",
-    "Categories/Pandas.md",
-    "Categories/Numpy.md",
-    "Categories/Matplot.md",
-    "Categories/LLM.md",
-    "Pandas/Series.md",
-    "Algorithm/Zuo/Primary",
-    "Algorithm/Zuo",
-    "Pandas"
+    "Algorithm/Zuo/Primary/用位运算实现加减乘除.md"
   ]
 }
