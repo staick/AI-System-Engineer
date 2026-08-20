@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WWA.md",
+                "file": "Categories/Leetcode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WWA"
+              "title": "Leetcode"
             }
           }
         ]
@@ -189,9 +189,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "40ad6abc5f2e578b",
+  "active": "3f576f35edf1acba",
   "lastOpenFiles": [
+    "Algorithm/Leetcode/189. Rotate Array.md",
+    "Algorithm/Leetcode/169. Majority Element.md",
     "WWA.md",
+    "Algorithm/Leetcode/leetcode189. Rotate Array 1.md",
+    "Algorithm/Leetcode/leetcode169. Majority Element 1.md",
+    "Algorithm/Leetcode/leetcode 55. Jump Game 1.md",
+    "Algorithm/Leetcode/55. Jump Game.md",
     "Categories/Robot.md",
     "Robot",
     "ML/Supervised Learning/Supervised Learning.md",
@@ -213,13 +219,7 @@
     "Data Analysis/Numpy/Numpy.md",
     "DL/PyTorch/PyTorch.md",
     "Categories/DL.md",
-    "Categories/CSDIY.md",
     "Categories/Untitled",
-    "DL/PyTorch/安装配置.md",
-    "Data Analysis/Matplotlib/Matplotlib.md",
-    "Data Analysis/Matplotlib/中文显示问题.md",
-    "Data Analysis/Matplotlib/基本使用.md",
-    "Categories/Leetcode.md",
     "Data Analysis/Numpy",
     "Algorithm/Summary",
     "DL/PyTorch",
