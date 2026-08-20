@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Leetcode/242. Valid Anagram.md",
+                "file": "WWA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "242. Valid Anagram"
+              "title": "WWA"
             }
           }
         ]
@@ -63,7 +63,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
@@ -189,45 +189,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "3f576f35edf1acba",
+  "active": "40ad6abc5f2e578b",
   "lastOpenFiles": [
-    "Data Analysis/Seaborn/Seaborn.md",
-    "Algorithm/Leetcode/242. Valid Anagram.md",
+    "WWA.md",
+    "Categories/Robot.md",
+    "Robot",
+    "ML/Supervised Learning/Supervised Learning.md",
+    "ML/Supervised Learning/Regression/Regression.md",
+    "ML/Supervised Learning/Classification/Classification.md",
+    "Categories/ML.md",
+    "ML/Unsupervised Learning/Unsupervised Learning.md",
+    "ML/Unsupervised Learning",
+    "ML/0. Conceptus.md",
+    "Data Structure/Tree/Tree.md",
+    "Data Structure/Search/Search.md",
+    "Categories/Data Structure.md",
+    "Data Structure/Tree/Binary-tree/Binary-tree.md",
+    "Algorithm/Zuo/Zuo.md",
+    "Data Structure/Tree/Binary-tree/Traversal.md",
+    "Data Structure/Search/min-heap & max-heap.md",
+    "Data Analysis/Pandas/Pandas.md",
+    "Data Analysis/Pandas/Untitled.md",
+    "Data Analysis/Numpy/Numpy.md",
+    "DL/PyTorch/PyTorch.md",
+    "Categories/DL.md",
+    "Categories/CSDIY.md",
+    "Categories/Untitled",
     "DL/PyTorch/安装配置.md",
+    "Data Analysis/Matplotlib/Matplotlib.md",
+    "Data Analysis/Matplotlib/中文显示问题.md",
+    "Data Analysis/Matplotlib/基本使用.md",
+    "Categories/Leetcode.md",
+    "Data Analysis/Numpy",
+    "Algorithm/Summary",
     "DL/PyTorch",
     "DL",
     "Asset/Pasted image 20260820161044.png",
     "Asset/Pasted image 20260820154005.png",
     "Asset",
-    "Algorithm/Leetcode/3069. Distribute Elements Into Two Arrays I.md",
-    "Python/Traps & Pitfalls.md",
     "Python",
-    "Data Structure/Tree/Binary-tree/Traversal.md",
-    "Data Structure/heap/min-heap & max-heap.md",
-    "Data Structure/Tree/Binary-tree",
-    "Data Structure/heap",
-    "Data Structure/Tree",
-    "Data Structure",
-    "Algorithm/Leetcode/1386. Cinema Seat Allocation.md",
-    "Algorithm/Leetcode/101. Symmetric Tree.md",
-    "Algorithm/Leetcode/100. Same Tree.md",
-    "ML/Supervised Learning/1. Feature Engineering.md",
-    "Data Analysis/Seaborn",
-    "Data Analysis",
-    "ML/0. Conceptus.md",
-    "Data Analysis/Pandas/DataFrame.md",
-    "CSDIY/DS100/Data 100 Principles and Techniques of Data Science.md",
-    "Algorithm/Leetcode/290. Word Pattern.md",
-    "Algorithm/Leetcode/205. Isomorphic Strings.md",
-    "Data Analysis/Pandas/Series.md",
-    "Data Analysis/Pandas/DateTime.md",
-    "WWA.md",
-    "Algorithm/Zuo/Primary/用位运算实现加减乘除.md",
-    "ML/1. Feature Engineering.md",
-    "Data Analysis/Matplot/基本使用.md",
-    "Algorithm/Leetcode/383. Ransom Note.md",
-    "Algorithm/Leetcode/392. Is Subsequence.md",
-    "Categories/Zuo.md",
-    "Categories/Leetcode.md"
+    "Data Structure/Tree/Binary-tree"
   ]
 }
