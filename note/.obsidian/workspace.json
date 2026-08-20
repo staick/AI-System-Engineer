@@ -11,14 +11,12 @@
             "id": "3f576f35edf1acba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "DL/PyTorch/安装配置.md",
-                "mode": "source",
-                "source": false
+                "file": "Asset/Pasted image 20260820161044.png"
               },
-              "icon": "lucide-file",
-              "title": "安装配置"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260820161044"
             }
           }
         ]
@@ -189,12 +187,14 @@
       "bases:新建数据库": false
     }
   },
-  "active": "3f576f35edf1acba",
+  "active": "40ad6abc5f2e578b",
   "lastOpenFiles": [
-    "Pasted image 20260820161044.png",
-    "Pasted image 20260820154005.png",
-    "Algorithm/Leetcode/3069. Distribute Elements Into Two Arrays I.md",
+    "Asset/Pasted image 20260820161044.png",
+    "未命名.base",
     "DL/PyTorch/安装配置.md",
+    "Asset",
+    "Asset/Pasted image 20260820154005.png",
+    "Algorithm/Leetcode/3069. Distribute Elements Into Two Arrays I.md",
     "DL/PyTorch",
     "DL",
     "Data Analysis/Seaborn/Seaborn.md",
@@ -220,10 +220,8 @@
     "Algorithm/Leetcode/100. Same Tree.md",
     "Python/Traps & Pitfalls.md",
     "Algorithm/Leetcode/101. Symmetric Tree.md",
-    "Python",
     "Data Structure/Tree/Binary-tree/Traversal.md",
     "Data Structure/Heap/Min-heap & Max-heap.md",
-    "Data Structure/Tree/Binary-tree",
     "WWA.md",
     "Math/Linear Algebra/Matrix (矩阵).md",
     "Math/Linear Algebra/Vector (向量).md",

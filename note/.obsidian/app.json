@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "foldIndent": true,
   "readableLineLength": true,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "attachmentFolderPath": "Asset"
 }
