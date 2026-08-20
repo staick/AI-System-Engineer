@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Leetcode/1386. Cinema Seat Allocation.md",
+                "file": "Algorithm/Leetcode/3069. Distribute Elements Into Two Arrays I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1386. Cinema Seat Allocation"
+              "title": "3069. Distribute Elements Into Two Arrays I"
             }
           }
         ]
@@ -191,8 +191,11 @@
   },
   "active": "3f576f35edf1acba",
   "lastOpenFiles": [
-    "Algorithm/Leetcode/100. Same Tree.md",
+    "Categories/Leetcode.md",
+    "Categories/Algorithm.md",
+    "Algorithm/Leetcode/3069. Distribute Elements Into Two Arrays I.md",
     "Algorithm/Leetcode/1386. Cinema Seat Allocation.md",
+    "Algorithm/Leetcode/100. Same Tree.md",
     "Python/Traps & Pitfalls.md",
     "Algorithm/Leetcode/101. Symmetric Tree.md",
     "Python",
@@ -206,7 +209,6 @@
     "Math/Linear Algebra/Matrix (矩阵).md",
     "Math/Linear Algebra/Vector (向量).md",
     "ML/Supervised Learning/1. Feature Engineering.md",
-    "Categories/Leetcode.md",
     "Algorithm/Leetcode/28. Find the Index of the First Occurrence in a String.md",
     "Algorithm/Leetcode/290. Word Pattern.md",
     "Algorithm/Leetcode/205. Isomorphic Strings.md",
@@ -223,9 +225,7 @@
     "Matplot/基本使用.md",
     "Categories/ML.md",
     "ML",
-    "Categories/Algorithm.md",
     "Algorithm/Leetcode/383. Ransom Note.md",
-    "Categories/Zuo.md",
-    "Algorithm/Zuo/Primary/用位运算实现加减乘除.md"
+    "Categories/Zuo.md"
   ]
 }

@@ -8,5 +8,7 @@
 [[290. Word Pattern]]
 [[383. Ransom Note]]
 [[392. Is Subsequence]]
+[[1386. Cinema Seat Allocation]]
+[[3069. Distribute Elements Into Two Arrays I]]
 ### 中等题
 [[274. H-Index]]
