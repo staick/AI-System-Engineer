@@ -11,12 +11,14 @@
             "id": "3f576f35edf1acba",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Asset/Pasted image 20260820161044.png"
+                "file": "ML/0. Conceptus.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260820161044"
+              "icon": "lucide-file",
+              "title": "0. Conceptus"
             }
           }
         ]
@@ -187,10 +189,14 @@
       "bases:新建数据库": false
     }
   },
-  "active": "40ad6abc5f2e578b",
+  "active": "3f576f35edf1acba",
   "lastOpenFiles": [
-    "Asset/Pasted image 20260820161044.png",
+    "ML/Supervised Learning/1. Feature Engineering.md",
+    "ML/1. Terminology.md",
+    "ML/0. Conceptus.md",
+    "ML/Supervised Learning/未命名.md",
     "未命名.base",
+    "Asset/Pasted image 20260820161044.png",
     "DL/PyTorch/安装配置.md",
     "Asset",
     "Asset/Pasted image 20260820154005.png",
@@ -222,9 +228,6 @@
     "Algorithm/Leetcode/101. Symmetric Tree.md",
     "Data Structure/Tree/Binary-tree/Traversal.md",
     "Data Structure/Heap/Min-heap & Max-heap.md",
-    "WWA.md",
-    "Math/Linear Algebra/Matrix (矩阵).md",
-    "Math/Linear Algebra/Vector (向量).md",
-    "ML/Supervised Learning/1. Feature Engineering.md"
+    "WWA.md"
   ]
 }
