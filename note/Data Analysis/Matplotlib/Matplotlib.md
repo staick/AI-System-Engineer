@@ -1,3 +1,4 @@
+[[中文显示问题|安装配置]]
 导入库
 ```python
 import matplotlib.pyplot as plt
