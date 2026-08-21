@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Leetcode/3116. Kth Smallest Amount With Single Denomination Combination.md",
+                "file": "Algorithm/Leetcode/3622. Check Divisibility by Digit Sum and Product.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3116. Kth Smallest Amount With Single Denomination Combination"
+              "title": "3622. Check Divisibility by Digit Sum and Product"
             }
           }
         ]
@@ -46,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -63,7 +63,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 285.9375
   },
   "right": {
     "id": "f27f42567a7440d4",
@@ -99,8 +99,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/0. Conceptus.md",
-                "collapseAll": true,
+                "file": "Data Analysis/Seaborn/Seaborn.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -109,7 +109,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Backlinks"
             }
           },
           {
@@ -152,7 +152,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "添加笔记属性"
+              "title": "All properties"
             }
           },
           {
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/0. Conceptus.md",
+                "file": "Data Analysis/Seaborn/Seaborn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Outline"
             }
           }
         ],
@@ -180,54 +180,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "3f576f35edf1acba",
   "lastOpenFiles": [
-    "Algorithm/Leetcode/3069. Distribute Elements Into Two Arrays I.md",
+    "WWA.md",
+    "Algorithm/Leetcode/3622. Check Divisibility by Digit Sum and Product.md",
+    "Data Structure/Search/min-heap & max-heap.md",
+    "ML/1. Terminology.md",
     "Algorithm/Leetcode/3116. Kth Smallest Amount With Single Denomination Combination.md",
-    "ML/0. Conceptus.md",
-    "Math/Linear Algebra/Linear Algebra.md",
-    "ML/Unsupervised Learning/Unsupervised Learning.md",
-    "ML/Unsupervised Learning",
+    "Categories/Leetcode.md",
+    "Algorithm/Leetcode/189. Rotate Array.md",
+    "Algorithm/Leetcode/169. Majority Element.md",
+    "Algorithm/Leetcode/leetcode189. Rotate Array 1.md",
+    "Algorithm/Leetcode/leetcode169. Majority Element 1.md",
+    "Algorithm/Leetcode/leetcode 55. Jump Game 1.md",
+    "Algorithm/Leetcode/55. Jump Game.md",
+    "Categories/Robot.md",
+    "Robot",
     "ML/Supervised Learning/Supervised Learning.md",
     "ML/Supervised Learning/Regression/Regression.md",
-    "ML/Supervised Learning/Regression",
     "ML/Supervised Learning/Classification/Classification.md",
-    "ML/Supervised Learning/Classification",
+    "Categories/ML.md",
+    "ML/Unsupervised Learning/Unsupervised Learning.md",
+    "ML/Unsupervised Learning",
+    "ML/0. Conceptus.md",
     "Data Structure/Tree/Tree.md",
-    "Data Structure/Tree/Binary-tree/Binary-tree.md",
     "Data Structure/Search/Search.md",
-    "Data Structure/Search/min-heap & max-heap.md",
-    "Data Structure/Search",
-    "Data Analysis/Pandas/Pandas.md",
-    "Data Analysis/Numpy/Numpy.md",
-    "Data Analysis/Numpy",
-    "Data Analysis/Matplotlib/中文显示问题.md",
-    "Data Analysis/Matplotlib/Matplotlib.md",
-    "Data Analysis/Matplotlib",
-    "DL/PyTorch/PyTorch.md",
-    "Categories/Robot.md",
-    "Categories/Python.md",
-    "Categories/Math.md",
     "Categories/Data Structure.md",
-    "Categories/Data Analysis.md",
-    "Categories/DL.md",
-    "Categories/CSDIY.md",
+    "Data Structure/Tree/Binary-tree/Binary-tree.md",
     "Algorithm/Zuo/Zuo.md",
-    "Algorithm/Summary/快慢指针.md",
+    "Data Structure/Tree/Binary-tree/Traversal.md",
+    "Data Analysis/Pandas/Pandas.md",
+    "Categories/Untitled",
+    "Data Analysis/Numpy",
     "Algorithm/Summary",
-    "未命名.base",
+    "DL/PyTorch",
+    "DL",
     "Asset/Pasted image 20260820161044.png",
-    "Asset",
     "Asset/Pasted image 20260820154005.png",
-    "DL/PyTorch"
+    "Asset",
+    "Python",
+    "Data Structure/Tree/Binary-tree"
   ]
 }
