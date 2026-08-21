@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/0. Conceptus.md",
+                "file": "Algorithm/Leetcode/3116. Kth Smallest Amount With Single Denomination Combination.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Conceptus"
+              "title": "3116. Kth Smallest Amount With Single Denomination Combination"
             }
           }
         ]
@@ -191,6 +191,9 @@
   },
   "active": "3f576f35edf1acba",
   "lastOpenFiles": [
+    "Algorithm/Leetcode/3069. Distribute Elements Into Two Arrays I.md",
+    "Algorithm/Leetcode/3116. Kth Smallest Amount With Single Denomination Combination.md",
+    "ML/0. Conceptus.md",
     "Math/Linear Algebra/Linear Algebra.md",
     "ML/Unsupervised Learning/Unsupervised Learning.md",
     "ML/Unsupervised Learning",
@@ -221,9 +224,6 @@
     "Algorithm/Zuo/Zuo.md",
     "Algorithm/Summary/快慢指针.md",
     "Algorithm/Summary",
-    "Algorithm/Leetcode/55. Jump Game.md",
-    "Algorithm/Leetcode/242. Valid Anagram.md",
-    "Algorithm/Leetcode/202. Happy Number.md",
     "未命名.base",
     "Asset/Pasted image 20260820161044.png",
     "Asset",
