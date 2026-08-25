@@ -16,6 +16,8 @@
 [[383. Ransom Note]]
 [[392. Is Subsequence]]
 [[3069. Distribute Elements Into Two Arrays I]]
+[[3622. Check Divisibility by Digit Sum and Product]]]
+[[3718. Smallest Missing Multiple of K]]
 ### 中等题
 [[274. H-Index]]
 [[1386. Cinema Seat Allocation]]
