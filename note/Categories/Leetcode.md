@@ -15,8 +15,9 @@
 [[290. Word Pattern]]
 [[383. Ransom Note]]
 [[392. Is Subsequence]]
+[[2904. Shortest and Lexicographically Smallest Beautiful String]]
 [[3069. Distribute Elements Into Two Arrays I]]
-[[3622. Check Divisibility by Digit Sum and Product]]]
+[[3622. Check Divisibility by Digit Sum and Product]]
 [[3718. Smallest Missing Multiple of K]]
 ### 中等题
 [[274. H-Index]]
