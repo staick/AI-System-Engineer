@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Categories/Leetcode.md",
+                "file": "DL/PyTorch/Tensor 操作.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leetcode"
+              "title": "Tensor 操作"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Categories/Leetcode.md",
+                "file": "DL/PyTorch/Tensor 操作.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,6 +190,23 @@
   },
   "active": "97a7ebce1f170338",
   "lastOpenFiles": [
+    "DL/PyTorch/PyTorch.md",
+    "DL/PyTorch/Tensor 操作.md",
+    "DL/PyTorch/安装配置.md",
+    "DL/Basis/Projects/DIY 2-layer neutral network.md",
+    "DL/Basis/Projects",
+    "DL/Basis/Concepts/Neutral Network.md",
+    "DL/Basis/Concepts/Backward Propagation.md",
+    "DL/Basis/Concepts",
+    "DL/Basis/Concepts/Forward Propagation.md",
+    "DL/Basis/Common Function/ReLU.md",
+    "Asset/Pasted image 20260826211623.png",
+    "DL/Basis/Common Function/Sigmoid.md",
+    "DL/Basis/Common Function/Softmax.md",
+    "DL/Basis/Common Function/Tanh.md",
+    "DL/PyTorch/PyTorch DL/Parameter Updating.md",
+    "DL/PyTorch/PyTorch DL/Device Setting.md",
+    "Categories/Leetcode.md",
     "Algorithm/Leetcode/2904. Shortest and Lexicographically Smallest Beautiful String.md",
     "DL/Basis/Optimization/Parameter Updating/1. SGD.md",
     "Asset/Pasted image 20260826172857.png",
@@ -198,12 +214,7 @@
     "DL/Basis/Optimization/Parameter Updating/7. AdamW.md",
     "DL/Basis/Optimization/Parameter Updating/3. 学习率衰减.md",
     "DL/Basis/Optimization/Parameter Updating/2. Momentum.md",
-    "DL/PyTorch/PyTorch DL/Parameter Updating.md",
     "DL/Basis/Optimization/Parameter Initialing/Parameter Initialing.md",
-    "DL/PyTorch/PyTorch DL/Device Setting.md",
-    "DL/PyTorch/安装配置.md",
-    "DL/PyTorch/PyTorch.md",
-    "DL/PyTorch/Tensor 操作.md",
     "Categories/Algorithm.md",
     "DL/PyTorch/PyTorch DL",
     "DL/Basis/Optimization/Parameter Updating/6. Adam.md",
@@ -211,18 +222,8 @@
     "DL/Basis/Optimization/Parameter Updating/4. AdaGrad.md",
     "DL/Basis/Optimization/Normalization",
     "DL/Basis/Optimization/Parameter Initialing",
-    "DL/Basis/Optimization/Parameter Updating/5. RMSProp.md",
     "DL/Basis/Optimization/Parameter Updating",
-    "Categories/DL.md",
-    "DL/Basis/Neutral Network.md",
-    "DL/Basis/Neuron.md",
-    "DL/Basis/Forward Propagation.md",
-    "DL/Basis/DIY 2-layer neutral network.md",
-    "DL/Basis/Backward Propagation.md",
     "DL/Basis/Optimization",
-    "Math/Linear Algebra/Matrix (矩阵).md",
-    "Math/Linear Algebra/Linear Algebra.md",
-    "DL/Basis/Common Function/Softmax.md",
     "Asset/Pasted image 20260825162713.png",
     "Asset/Pasted image 20260825160931.png",
     "Asset/Pasted image 20260825155554.png",
@@ -232,10 +233,7 @@
     "DL/Basis/Common Function",
     "DL/Basis",
     "English",
-    "RL",
-    "ML/Unsupervised Learning/Clustering/K-means",
     "Asset/Pasted image 20260823124123.png",
-    "Asset/Pasted image 20260820161044.png",
-    "Asset/Pasted image 20260820154005.png"
+    "Asset/Pasted image 20260820161044.png"
   ]
 }
