@@ -4,39 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "0f0519e5d8690ff3",
+        "id": "93901f35ceb5d081",
         "type": "tabs",
         "children": [
           {
-            "id": "3f576f35edf1acba",
+            "id": "97a7ebce1f170338",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Categories/RL.md",
+                "file": "DL/Basis/Common Function/SwiGLU.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "RL"
-            }
-          },
-          {
-            "id": "98f4ac54babe9e8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/Leetcode/3. Roman to Integer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Roman to Integer"
+              "title": "SwiGLU"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +56,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -78,7 +73,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -98,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.9375
+    "width": 298.8333435058594
   },
   "right": {
     "id": "f27f42567a7440d4",
@@ -114,8 +109,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analysis/Seaborn/Seaborn.md",
-                "collapseAll": false,
+                "file": "ML/0. Conceptus.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -124,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "反向链接"
             }
           },
           {
@@ -167,7 +162,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "添加笔记属性"
             }
           },
           {
@@ -176,13 +171,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analysis/Seaborn/Seaborn.md",
+                "file": "DL/Basis/Common Function/SwiGLU.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "fb0a11c0e81a7822",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "DL/Basis/Common Function/Tanh.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "脚注"
             }
           }
         ],
@@ -190,67 +197,66 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
     }
   },
-  "active": "40ad6abc5f2e578b",
+  "active": "97a7ebce1f170338",
   "lastOpenFiles": [
-    "DL/PyTorch/PyTorch DL/Parameter Updating.md",
-    "DL/PyTorch/PyTorch DL/Device Setting.md",
-    "DL/PyTorch/PyTorch DL",
-    "DL/Basis/Projects/DIY 2-layer neutral network.md",
-    "DL/Basis/Projects",
-    "DL/Basis/Optimization/Parameter Updating/3. 学习率衰减.md",
-    "DL/Basis/Optimization/Parameter Updating/7. AdamW.md",
-    "DL/Basis/Optimization/Parameter Updating/6. Adam.md",
-    "DL/Basis/Optimization/Parameter Updating/5. RMSProp.md",
-    "DL/Basis/Optimization/Parameter Updating/4. AdaGrad.md",
-    "DL/Basis/Optimization/Parameter Updating/2. Momentum.md",
-    "DL/Basis/Optimization/Parameter Updating/1. SGD.md",
-    "DL/Basis/Optimization/Parameter Updating/0. Parameter Updating.md",
-    "DL/Basis/Optimization/Parameter Initialing/Parameter Initialing.md",
-    "DL/Basis/Optimization/Normalization/Normalization.md",
-    "DL/Basis/Optimization/Parameter Updating",
-    "DL/Basis/Optimization/Parameter Initialing",
-    "DL/Basis/Optimization/Normalization",
-    "DL/Basis/Optimization",
-    "DL/Basis/Concepts/Neutral Network.md",
+    "Asset/Pasted image 20260827174330.png",
+    "ML/Supervised Learning/Perceptron/Multilayer Perceptron.md",
+    "DL/Basis/Common Function/SwiGLU.md",
+    "ML/Supervised Learning/Perceptron",
+    "DL/Basis/Concepts/Activation function.md",
+    "Asset/Pasted image 20260827172740.png",
+    "DL/Basis/Common Function/GELU.md",
+    "DL/Basis/Common Function/erf.md",
+    "Math/Probability/Concepts.md",
+    "Math/Probability",
+    "Categories/DL.md",
+    "DL/Basis/Common Function/Swish.md",
+    "DL/Basis/Common Function/Softplus.md",
+    "DL/Basis/Common Function/ReLU.md",
+    "Asset/Pasted image 20260827154422.png",
+    "DL/Basis/Common Function/Sigmoid.md",
+    "DL/Basis/Common Function/ELU.md",
+    "Asset/Pasted image 20260827153144.png",
+    "DL/Basis/Common Function/Softmax.md",
+    "DL/Basis/Common Function/RReLU.md",
+    "DL/Basis/Common Function/PReLU.md",
+    "DL/Basis/Common Function/MSE.md",
+    "DL/Basis/Common Function/Idenity.md",
+    "DL/Basis/Common Function/Leaky ReLU.md",
+    "Asset/Pasted image 20260827145724.png",
     "DL/Basis/Concepts/Neuron.md",
-    "DL/Basis/Concepts/Forward Propagation.md",
-    "DL/Basis/Concepts/Backward Propagation.md",
+    "Asset/Pasted image 20260827142911.png",
+    "Asset/Pasted image 20260827142229.png",
+    "Asset/Pasted image 20260827141331.png",
+    "DL/Basis/Common Function/Tanh.md",
+    "DL/Basis/Common Function/Binary Step.md",
+    "DL/Basis/Common Function/CEE.md",
+    "DL/Basis/Concepts/Neutral Network.md",
+    "Asset/Pasted image 20260827093357.png",
+    "DL/PyTorch/Tensor 操作.md",
+    "DL/PyTorch/PyTorch.md",
+    "DL/Basis/Projects",
     "DL/Basis/Concepts",
     "Asset/Pasted image 20260826211623.png",
     "Asset/Pasted image 20260826172857.png",
-    "Algorithm/Leetcode/2904. Shortest and Lexicographically Smallest Beautiful String.md",
-    "WWA.md",
-    "DL/Basis/Backward Propagation.md",
-    "Algorithm/Leetcode/3. Roman to Integer.md",
-    "Algorithm/Leetcode/3718. Smallest Missing Multiple of K.md",
-    "English/未命名.md",
-    "English",
-    "DL/PyTorch/Tensor 操作.md",
-    "DL/Basis/Common Function/Tanh.md",
-    "DL/Basis/Common Function/Softmax.md",
-    "DL/Basis/Common Function",
-    "DL/Basis",
-    "Asset/Pasted image 20260825162713.png",
-    "Asset/Pasted image 20260825160931.png",
-    "Asset/Pasted image 20260825155554.png",
-    "Asset/Pasted image 20260825153642.png",
-    "Asset/Pasted image 20260825152159.png",
-    "Asset/Pasted image 20260825151453.png",
-    "Asset/Pasted image 20260823124123.png",
-    "Asset/Pasted image 20260823123623.png"
+    "DL/PyTorch/PyTorch DL",
+    "DL/Basis/Optimization/Normalization",
+    "DL/Basis/Optimization/Parameter Initialing",
+    "DL/Basis/Optimization/Parameter Updating",
+    "DL/Basis/Optimization",
+    "DL/Basis/Common Function"
   ]
 }
