@@ -10,7 +10,7 @@ y_i\,(1-y_i),k=i,\\[4pt]
 \end{cases}
 $$
 
-### 与 [[Sigmoid]] 的关系
+### 与 [[DL/Basis/Common Function/Sigmoid]] 的关系
 Softmax 相当于是 Sigmoid 在多分类问题上的扩展。
 对于 Sigmoid，可以将其看作是 $y=1$ 时的概率
 $$

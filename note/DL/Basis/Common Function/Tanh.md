@@ -6,7 +6,7 @@ $$
 f'(x)=1-(\frac{1-e^{-2x}}{1+e^{-2x}})^2=1-f^2(x)
 $$
 ### 求导过程
-### 与 [[Sigmoid]] 的关系
+### 与 [[DL/Basis/Common Function/Sigmoid]] 的关系
 Tanh 函数相当于自变量为 $2x$ 的 Sigmoid 函数乘以 2 再减去 1。
 $$
 2\times Sigmoid(2x)-1=2f(2x)-1=\frac{2}{1+e^{-2x}}-1=\frac{1-e^{-2x}}{1+e^{-2x}}=Tanh(x)
